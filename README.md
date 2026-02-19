@@ -10,4 +10,4 @@ ejercicio 4
 ejercicio 5
 ![ejercicio5](Ejercicio5.png)
 ejercicio 6
-![ejercicio6](Ejercicio6png)
+![ejercicio6](Ejercicio6.png)
