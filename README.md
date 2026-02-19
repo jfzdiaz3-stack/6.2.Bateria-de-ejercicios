@@ -3,3 +3,5 @@ ejercicio 1
 ![ejercicio1](Ejercicio1.png)
 ejercicio 2
 ![ejercicio2](Ejercicio2.png)
+ejercicio 3
+![ejercicio3](Ejercicio3.png)
